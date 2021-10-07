@@ -1,1 +1,1 @@
-GitHub Flow
+GitHub Flow sample
